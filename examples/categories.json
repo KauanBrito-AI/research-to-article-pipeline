@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Free tools", "when": "default. A list of free tools that solve a practical, everyday problem. The reader arrives with a problem and leaves with a solution." },
+  { "id": 2, "name": "Discoveries", "when": "the hook is curiosity, not a problem: 'this exists?!'. The reader arrives curious." },
+  { "id": 3, "name": "Privacy and security", "when": "privacy, protecting accounts, passwords, leaks, scams, tracking." },
+  { "id": 4, "name": "Artificial intelligence", "when": "only when all or almost all the tools are AI tools." }
+]
